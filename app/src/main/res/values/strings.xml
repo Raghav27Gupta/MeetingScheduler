@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ScheduleMeeting</string>
+    <string name="getMeeting_URL">http://fathomless-shelf-5846.herokuapp.com/api/schedule?date=%227/8/2019%22</string>
+</resources>
